@@ -1,1 +1,10 @@
-
+adclick.g.doublecklick.net
+adeventtracker.spotify.com
+ads-fa.spotify.com
+analytics.spotify.com
+audio2.spotify.com
+b.scorecardresearch.com
+bounceexchange.com
+bs.serving-sys.com
+content.bitsontherun.com
+core.insightexpressai.com
