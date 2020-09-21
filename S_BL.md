@@ -1,10 +1,1 @@
-<h6> adclick.g.doublecklick.ne
-<h6> adeventtracker.spotify.com
-<h6> ads-fa.spotify.com
-<h6> analytics.spotify.com
-<h6> audio2.spotify.com
-<h6> b.scorecardresearch.com
-<h6> bounceexchange.com
-<h6> bs.serving-sys.com
-<h6> content.bitsontherun.com
-<h6> core.insightexpressai.com
+Bei den hier eingestellten Listen handelte sich um Black- bzw- Whitelists für Pi-Hole.
